@@ -1,3 +1,3 @@
 # memoria-estrategica-jogo
 
-Jogo da memória Estretégica
+Jogo da memória Estratégica
